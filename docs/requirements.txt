@@ -1,1 +1,1 @@
-phinxcontrib-svg2pdfconverter
+sphinxcontrib-svg2pdfconverter
